@@ -1,0 +1,1 @@
+arma3server.exe -autoinit -noFilePatching -enableHT -nosplash -port=2302 -config=@ExileServer\config.cfg -cfg=@ExileServer\basic.cfg -profiles=SC -name=SC -servermod=@ExileServer;@exad;@Enigma;@A3XAI -mod=@ExileMod;@Extended_Base_Mod;@CBA_A3;@CUP_Terrains;@CUPUnits;@CUP_Vehicles;@CUPWeapons; -bepath=C:\a3\battleye
